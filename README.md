@@ -17,8 +17,8 @@ Example:
 rmdups test.txt         Reads test.txt and removes duplicate lines
 ```
 
-##Example
-We have the following file: 
+## Example
+Let's say we provide a file with the following content as argument: 
 ```
 Fred
 Jeff
