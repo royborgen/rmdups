@@ -1,4 +1,4 @@
-# rmdups (Remove duplocates) 
+# rmdups (Remove duplicates) 
 A Python script that reads a file, removed duplicate lines and outputs results. 
 
 ## Usage
