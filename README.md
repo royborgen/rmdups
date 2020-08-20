@@ -17,6 +17,26 @@ Example:
 rmdups test.txt         Reads test.txt and removes duplicate lines
 ```
 
+##Example
+We have the following file: 
+```
+Fred
+Jeff
+Jeff
+Jeff
+Lisa
+Lisa
+Bobby
+```
+
+Script will output: 
+```
+Fred
+Jeff
+Lisa
+Bobby
+```
+
 ## Requirements
 - Python 3 
 - os library installed (standard with Python 3) 
